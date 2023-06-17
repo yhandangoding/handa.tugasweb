@@ -1,0 +1,30 @@
+
+.footer {
+    min-height: 40vh;
+    background-color: black;
+    margin-top: 150px;
+
+}
+
+.carousel-item{
+    height: 70vh;
+}
+
+.carousel-item img{
+    height: 70vh;
+    object-fit: cover;
+}
+
+.section-statistics{
+    margin-top: -3.5rem;
+    position: relative;
+}
+
+.statistic-item{
+    background: linear-gradient(37deg, blue 0%, blue 100%);
+    color: white;
+    padding: 1rem 0;
+}
+
+
+
